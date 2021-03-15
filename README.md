@@ -1,2 +1,2 @@
 # found_rock-paper-scissors
-theoo di project: [foundations] project: rock-paper-scissors
+theo odi project: [foundations] project: rock-paper-scissors
